@@ -48,5 +48,8 @@ I'm Tilak Sorte a discord Bot/Web Developer, I Spend most of time coding and lis
     
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonbeast27&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
+HTML
+C++
+C
+NODE.JS
  
