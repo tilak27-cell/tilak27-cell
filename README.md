@@ -47,9 +47,5 @@ I'm Tilak Sorte a discord Bot/Web Developer, I Spend most of time coding and lis
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=demonbeast27&count_private=true&theme=tokyonight&hide=contribs,prs)
     
    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonbeast27&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-HTML
-C++
-C
-NODE.JS
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonbeast27&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) HTML,NODE.JS,C++
  
